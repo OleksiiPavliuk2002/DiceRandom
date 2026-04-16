@@ -2,4 +2,4 @@
 
 The project looks like:
 
-<img src="./dice.gif" alt="dice" width="400" height="800" />
+<img src="./dice.gif" alt="dice" width="200" height="400" />
